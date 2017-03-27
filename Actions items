@@ -1,0 +1,11 @@
+1.  login page -> username, pswd
+2. Signup face user -> name (char), mailid (varchar) [optional - mail authentication], pswd (length>6, min check), preferences (min one), DoB (<today's date), home addr [diff pane/scrolling]
+3. Optional signup via fb
+4. Home Feed -> UI with input for "location n option for preferences" and show feeds based on 1st his pref n then non-pref until it exhaust
+5. Profile Update/view Page ->  All fields editable -> All[username, photo, password, phone no.,home addr] except mail id, DoB; preferences listed as check-box, list of events 
+6. Gallery page -> Images, timestamp and caption
+7. Create event -> Have "+" on page to create one
+8. Event page -> opens onclick a feed event, has name, description, location n counter, [OPTIONAL - follow up/ enroll n notify users], upload photos [Enrolled time > Event time], ensure no clash occurs  
+9. Setting Tab -> change profile, pref, event attended & organized, signout,  cancel event, unenroll event
+10. Create New Event  -> TextBox for any new event
+ 
